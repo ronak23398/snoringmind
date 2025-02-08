@@ -1,0 +1,31 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "snoringmind",
+          "appId": "1:814247894419:android:219e1e920b452ea5559c66",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "snoringmind",
+          "configurations": {
+            "android": "1:814247894419:android:219e1e920b452ea5559c66",
+            "web": "1:814247894419:web:fb565f67692e4ca6559c66",
+            "windows": "1:814247894419:web:08294c7674540acf559c66"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

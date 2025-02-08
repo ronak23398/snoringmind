@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "814247894419",
+    "firebase_url": "https://snoringmind-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "snoringmind",
+    "storage_bucket": "snoringmind.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814247894419:android:f520badcb8bb1da0559c66",
+        "android_client_info": {
+          "package_name": "com.example.snoringmind2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_cnN72b5mFTtGO7-uaZKuKKDMtr4D7nQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814247894419:android:219e1e920b452ea5559c66",
+        "android_client_info": {
+          "package_name": "com.example.snoringmind3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_cnN72b5mFTtGO7-uaZKuKKDMtr4D7nQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
